@@ -1,8 +1,8 @@
 # Setup
-title: Not Pure Poole
+title: TinyCosmos
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
-avatar: /avatar.jpeg
+url: https://tinycosmos.github.io
+avatar: /cat.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -28,21 +28,21 @@ exclude:
   - not-pure-poole.gemspec
 
 # Optimize Jekyl SEO Tag
-twitter:
-  username: vszhub
-  card: summary
-logo: logo.png
-social:
-  name: Songzi Vong
-  links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
-google_site_verification: xxxxx
-lang: en
+# twitter:
+#   username: vszhub
+#   card: summary
+# logo: logo.png
+# social:
+#   name: Songzi Vong
+#   links:
+#     - https://twitter.com/vszhub
+#     - https://github.com/vszhub
+# google_site_verification: xxxxx
+lang: cn
 
-sass:
-  sass_dir: _sass
-  style: :compressed
+# sass:
+#   sass_dir: _sass
+#   style: :compressed
 
 # Options
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: TinyCosmos
+  # url: https://github.com/vszhub/
+  email: 748255886@qq.com
