@@ -26,7 +26,7 @@ exclude:
   - README.md
   - scripts/
   - not-pure-poole.gemspec
-
+1
 # Optimize Jekyl SEO Tag
 # twitter:
 #   username: vszhub
@@ -55,5 +55,5 @@ lang: cn
 # Specify the author for blog posts
 author:
   name: TinyCosmos
-  # url: https://github.com/vszhub/
+  url: https://tinycosmos.github.io
   email: 748255886@qq.com
