@@ -6,9 +6,6 @@ math: true
 date: 2020-10-02 15:32 +0800
 ---
 
-
-到底是哪里不对
-
 What's going on???
 
 Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
