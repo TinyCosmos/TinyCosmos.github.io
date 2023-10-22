@@ -2,8 +2,7 @@
 layout: post
 title: 发布一个测试文档
 author: TinyCosmos
-tags:
-- 测试用
+tags: test
 date: 2023-10-22 22:20
 ---
 
