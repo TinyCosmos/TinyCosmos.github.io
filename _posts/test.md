@@ -1,8 +1,9 @@
 ---
 layout: post
-title: test Document
-tags: test
-date: 2023-10-22 22:20
+title: Testing MathJaxAAAA
+tags: mathjax
+math: true
+date: 2020-10-02 15:32 +0800
 ---
 
 It's a mark down test document 后面可以让ChatGPT生成
